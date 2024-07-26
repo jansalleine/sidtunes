@@ -11,4 +11,4 @@ Mostly done in my own [NinjaTracker modification](https://csdb.dk/release/?id=15
 Tunes made with [SID-Wizard](https://csdb.dk/release/?id=221555) by Hermit. Files with swm / swi extension are in native C64 PRG format.
 
 # Copyright
-Copyright 2008-2023 Jan Wassermann aka Spider Jerusalem. All rights reserved.
+Copyright 2008-2024 Jan Wassermann aka Spider Jerusalem. All rights reserved.
