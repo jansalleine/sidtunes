@@ -27,7 +27,7 @@ Tunes made with [SID-Wizard](https://csdb.dk/release/?id=221555) by Hermit. File
     File: NinjaTracker/Honky/Honky.sid
     Title: Honky
 
-### Quatum Returns / Bells Hells
+### Quantum Returns / Bells Hells
 
     File: MUSICIANS/S/Spider_Jerusalem/Quantum_Returns.sid
     Title: Quantum Returns
@@ -36,4 +36,4 @@ Tunes made with [SID-Wizard](https://csdb.dk/release/?id=221555) by Hermit. File
     Title: Bells Hells
 
 # Copyright
-Copyright 2008-2024 Jan Wassermann aka Spider Jerusalem. All rights reserved.
+Copyright 2008-2026 Jan Wassermann aka Spider Jerusalem. All rights reserved.
